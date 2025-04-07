@@ -187,5 +187,5 @@ Add script I currently find that organizations need
         },
     }
 
-df_player_data = scrape_player_data(player_urls)
-print(df_player_data)
+        df_player_data = scrape_player_data(player_urls)
+        print(df_player_data)
